@@ -25,6 +25,8 @@
     "dist-modern/"
   ],
   "main": "dist/vue-tel-input.umd.min.js",
+  "module": "src/index.js",
+  "typings": "index.d.ts",
   "unpkg": "dist/vue-tel-input.umd.min.js",
   "jsdelivr": "dist/vue-tel-input.umd.min.js",
   "dependencies": {
